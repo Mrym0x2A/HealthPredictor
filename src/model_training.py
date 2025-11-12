@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import joblib
 import os
-import sys
-from pathlib import Path
 from config import settings
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
