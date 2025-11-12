@@ -5,7 +5,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from imblearn.over_sampling import SMOTE
 import warnings
-import sys
 from config import settings
 warnings.filterwarnings('ignore')
 
