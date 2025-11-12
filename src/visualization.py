@@ -3,7 +3,6 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 from sklearn.metrics import confusion_matrix, roc_curve
-from pathlib import Path
 import os
 from config import settings
 
