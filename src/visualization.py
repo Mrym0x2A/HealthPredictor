@@ -5,7 +5,6 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, roc_curve
 from pathlib import Path
 import os
-import sys
 from config import settings
 
 class Visualizer:
